@@ -91,7 +91,7 @@ streamlit run app.py
 
 ## 📋 Dataset
 
-- **Source** : [Kaggle - USA Housing Dataset](https://www.kaggle.com/datasets)
+- **Source** : [Kaggle - USA Housing Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/vedavyasv/usa-housing))
 - **Rows** : 5,000
 - **Features** : 5 numerical features
 
