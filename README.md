@@ -120,7 +120,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Pratik Kale**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pratik-kale-400ba8327/)
 - 🐙 [GitHub](https://github.com/pkale9650-ai)
 
 ---
