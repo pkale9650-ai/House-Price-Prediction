@@ -11,7 +11,12 @@
 
 ## 📸 Demo
 
-> *Add screenshot of your Streamlit app here*
+> <img width="1779" height="547" alt="image" src="https://github.com/user-attachments/assets/ed8a2525-3937-4eac-98f2-d7315031a1eb" />
+> <img width="946" height="839" alt="image" src="https://github.com/user-attachments/assets/e50b42ee-bee3-4ead-a298-ed212d8fd2b3" />
+<img width="909" height="809" alt="image" src="https://github.com/user-attachments/assets/f26ae102-99a2-4ab7-98e8-7cbb760c79f5" />
+
+
+
 
 ---
 
